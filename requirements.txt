@@ -1,0 +1,8 @@
+langchain[llms]
+python-dotenv
+sqlalchemy-bigquery
+ruamel.yaml
+tiktoken
+promptlayer
+numpy
+requests
